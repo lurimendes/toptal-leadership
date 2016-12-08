@@ -9,6 +9,7 @@
 * Code & Coffee Vancouver
 	* **When:** Dec 1st 2016 	
 	* **Where:** Code Core - 142 W Hastings St., Vancouver, BC
+	* **Website:** https://www.meetup.com/Code-Coffee-Vancouver/events/235583183/
 
 
 
