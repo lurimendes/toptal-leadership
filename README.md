@@ -13,8 +13,12 @@
 	* **Website:** https://www.meetup.com/Code-Coffee-Vancouver/events/235583183/
 * 2° Toptalers Meetup Vancouver
 	* **When:**	January 25th 2017
-	* **Where:** EXP Restaurant + Bar Vancouver  
+	* **Where:** EXP Restaurant + Bar Vancouver
 	* **Website**: https://www.toptal.com/events/2017-01-25/toptal-community-gathering-vancouver
+* Pacific Northwest Drupal Summit
+	* **When:**	February 25th - February 26th 2017
+	* **Where:** SFU Harbour Centre
+	* **Website**: http://pnwdrupalsummit.org/2017
 
 
 
