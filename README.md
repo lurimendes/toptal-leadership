@@ -19,6 +19,10 @@
 	* **When:**	February 25th - February 26th 2017
 	* **Where:** SFU Harbour Centre
 	* **Website**: http://pnwdrupalsummit.org/2017
+* Professional Headshot Day Vancouver
+	* **When:**	September 20th 2017
+	* **Where:** Vancouver Art Gallery Café
+	* **Website**: https://www.toptal.com/events/2017-09-20/toptal-networking-professional-headshots-event-vancouver/
 
 
 
