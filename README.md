@@ -23,6 +23,10 @@
 	* **When:**	September 20th 2017
 	* **Where:** Vancouver Art Gallery Café
 	* **Website**: https://www.toptal.com/events/2017-09-20/toptal-networking-professional-headshots-event-vancouver/
+* End of Year Gathering Vancouver
+	* **When:**	December 14th 2017
+	* **Where:** Earl's Kitchen + Bar
+	* **Website**: https://www.toptal.com/events/2017-12-14/toptal-end-of-year-gathering-vancouver/
 
 
 
