@@ -27,6 +27,10 @@
 	* **When:**	December 14th 2017
 	* **Where:** Earl's Kitchen + Bar
 	* **Website**: https://www.toptal.com/events/2017-12-14/toptal-end-of-year-gathering-vancouver/
+* Toptal Collab Night: Start Your Side Project
+	* **When:**	January 9th 2018
+	* **Where:** WeWork Burrard Station Vancouver
+	* **Website**: https://www.toptal.com/events/2018-01-09/toptal-collab-night-start-your-side-project
 
 
 
