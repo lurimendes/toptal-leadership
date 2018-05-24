@@ -31,7 +31,11 @@
 	* **When:**	January 9th 2018
 	* **Where:** WeWork Burrard Station Vancouver
 	* **Website**: https://www.toptal.com/events/2018-01-09/toptal-collab-night-start-your-side-project
-
-
-
-
+* Perfect Your Profile: Making Your Toptal Profile Stand Out to Clients
+	* **When:**	March 21st 2018 at 7PM
+	* **Where:** HiVE Coworking Space Vancouver
+	* **Website**: https://www.toptal.com/community/events/2018-03-21/perfect-your-profile-making-your-toptal-profile-stand-out-to-clients
+* Toptal Coworking Event: Vancouver
+	* **When:**	May 23st 2018 at 3PM
+	* **Where:** Breka Bakery and Cafe, 855 Davie St, Vancouver, Canada
+	* **Website**: https://www.toptal.com/community/events/2018-05-23/toptal-coworking-event-vancouver
