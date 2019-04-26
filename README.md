@@ -35,7 +35,11 @@
 	* **When:**	March 21st 2018 at 7PM
 	* **Where:** HiVE Coworking Space Vancouver
 	* **Website**: https://www.toptal.com/community/events/2018-03-21/perfect-your-profile-making-your-toptal-profile-stand-out-to-clients
-* Toptal Coworking Event: Vancouver
+* 1st Toptal Coworking Event: Vancouver
 	* **When:**	May 23st 2018 at 3PM
 	* **Where:** Breka Bakery and Cafe, 855 Davie St, Vancouver, Canada
 	* **Website**: https://www.toptal.com/community/events/2018-05-23/toptal-coworking-event-vancouver
+* 2nd Toptal Coworking Event: Vancouver
+	* **When:**	Apr 23st 2019 at 10AM-2PM
+	* **Where:** L’Atelier, 319 W Hastings St #400, Vancouver, Canada
+	* **Website**: https://www.toptal.com/community/events/2019-04-23/global-coworking-week-vancouver-coworking-day
